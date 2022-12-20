@@ -13,7 +13,7 @@
        height="200px" width="auto" align="right"
       />
 
-- 🙋‍♂️ All about me is at _[My Website]
+- 🙋‍♂️ All about me is at **[My Website](https://karthik-madavanaru-portfolio.netlify.app/)**
 
 - 💓 I love designing websites and coding.
 
