@@ -88,7 +88,7 @@
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikreddy552&layout=compact&theme=midnight-purple" />
 </div>
  <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=karthikreddy552&theme=rogue" alt="activitygraph" /> </p>
+<!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=karthikreddy552&theme=rogue" alt="activitygraph" /> </p> -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikreddy552&theme=vision-friendly-dark" alt=""/></p>
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=karthikreddy552&no-frame=true" alt=""/></p> -->
