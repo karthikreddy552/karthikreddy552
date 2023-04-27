@@ -1,3 +1,12 @@
+<img align="center" src='https://camo.githubusercontent.com/28832a15a2a557e13f1920f018f3018a8dfd5cc8bdcf24e18b50bf2531eb721b/68747470733a2f2f6879647261746563682e636f2e6b652f77702d636f6e74656e742f75706c6f6164732f323032312f30342f7765622d6170702d636f64696e672e676966' />
+
+
+
+
+
+
+
+
 <h1 align="center">Hi there! I'm Karthik Madavanaru <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br> 
  
