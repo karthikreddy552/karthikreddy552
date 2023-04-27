@@ -14,6 +14,7 @@
  
  
  <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinha05&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsinha05" /> </p>
 
 
 ### 👨🏻‍💻 About Me:
