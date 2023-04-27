@@ -22,7 +22,7 @@
        height="200px" width="auto" align="right"
       />
 
-- 🙋‍♂️ All about me is at **[My Website](https://karthikreddy552.github.io/myPortfolio/)**
+- 🙋‍♂️ All about me is at **[My Website](https://karthikreddy552.github.io/)**
 
 - 💓 I love designing websites and coding.
 
